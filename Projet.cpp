@@ -14,14 +14,6 @@
 #include "Option.h"
 #include "VanillaOption.h"
 
-/*
-François Marchessaux
-César Maurey
-Chloé Colomina Frances
-Gwendoline Marek
-Werner Lebeda
-*/
-
 int main()
 {
     double S0(95.), K(100.), T(0.5), r(0.02), sigma(0.2);
